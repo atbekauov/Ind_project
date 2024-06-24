@@ -3,9 +3,6 @@ title: Управление версиями Git
 summary: Этот пост о том, как начать работу с системой контроля версий Git.
 date: 2024-05-20
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-
 authors:
   - admin
 
@@ -15,7 +12,7 @@ tags:
   - Markdown
 ---
 
-Всем привет! 👋
+Здравствуйте, уважаемые читатели! 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
