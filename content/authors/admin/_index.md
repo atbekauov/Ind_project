@@ -36,7 +36,7 @@ interests:
   - Изучение языков 
 
 education:
-  - area: "Строительство" - бак.
+  - area: Строительство - бак.
     institution: МГСУ - ИСА
     date_start: 2019-09-01
     date_end: 2022-10-31
@@ -45,7 +45,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: "Комп. и инф. науки" - бак
+  - area: Комп. и инф. науки - бак
     institution: РУДН - ФФМиЕН
     date_start: 2023-09-01
     date_end: today
