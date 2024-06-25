@@ -134,4 +134,4 @@ awards:
 
 ## Обо мне
 
-Бекауов Артур - студент Российского Университета Дружбы народов, обучается на факультете физико-математических и естественных наук. Нравится заниматься математикой и программировать на С++. Хобби у меня не много - люблю смотреть фильмы и иногда заниматься спортом. Не сдаю вовремя лабораторные работы.
+Bekauov Arthur is a student at the Peoples' Friendship University of Russia, studying at the Faculty of Physics, Mathematics and Natural Sciences. I like doing mathematics and programming in C++. I don’t have many hobbies - I like to watch movies and sometimes play sports. I don't turn in laboratory work on time.
