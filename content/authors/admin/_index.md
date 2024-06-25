@@ -24,7 +24,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: etsy
+  - icon: at-symbol
     link: https://elibrary.ru/defaultx.asp
   - icon: academicons/google-scholar
     link: https://scholar.google.com/
@@ -32,7 +32,7 @@ profiles:
     link: https://github.com/atbekauov
   - icon: academicons/orcid
     link:  https://support.orcid.org/hc/en-us
-  - icon: arxiv
+  - icon: brands/x
     link:  https://arxiv.org/user/
 
 interests:
