@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://example.com/project/</link>
     </image>
     
     <item>
       <title>Лабораторные работы по ОС</title>
-      <link>http://localhost:1313/project/labs_os/</link>
+      <link>https://example.com/project/labs_os/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/labs_os/</guid>
+      <guid>https://example.com/project/labs_os/</guid>
       <description>&lt;p&gt;Выполненные лабораторные работы по предмету &amp;ldquo;Операционные системы&amp;rdquo; (Просроченные)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Сайт на Github pages</title>
-      <link>http://localhost:1313/project/site_os/</link>
+      <link>https://example.com/project/site_os/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/site_os/</guid>
+      <guid>https://example.com/project/site_os/</guid>
       <description>&lt;p&gt;Индивидуальный проект по предмету операционные системы - сайт на Github pages.&lt;/p&gt;</description>
     </item>
     

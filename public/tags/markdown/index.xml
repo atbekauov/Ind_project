@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/markdown/</link>
-      <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/markdown/</link>
+      <atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://example.com/tags/markdown/</link>
     </image>
     
     <item>
       <title>Brand new post</title>
-      <link>http://localhost:1313/post/-post-12/</link>
+      <link>https://example.com/post/-post-12/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/-post-12/</guid>
+      <guid>https://example.com/post/-post-12/</guid>
       <description>&lt;p&gt;Greetings! 👋&lt;/p&gt;
 
 
@@ -39,9 +39,9 @@
     
     <item>
       <title>Fresh post</title>
-      <link>http://localhost:1313/post/post-11/</link>
+      <link>https://example.com/post/post-11/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-11/</guid>
+      <guid>https://example.com/post/post-11/</guid>
       <description>&lt;p&gt;Hello! 👋&lt;/p&gt;
 
 
@@ -63,9 +63,9 @@
     
     <item>
       <title>FRESH1 !!! FRESH1 !!!</title>
-      <link>http://localhost:1313/post/-post-13/</link>
+      <link>https://example.com/post/-post-13/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/-post-13/</guid>
+      <guid>https://example.com/post/-post-13/</guid>
       <description>&lt;p&gt;Greetings! 👋&lt;/p&gt;
 
 
@@ -88,17 +88,17 @@
     
     <item>
       <title>Лабораторные работы по ОС</title>
-      <link>http://localhost:1313/project/labs_os/</link>
+      <link>https://example.com/project/labs_os/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/labs_os/</guid>
+      <guid>https://example.com/project/labs_os/</guid>
       <description>&lt;p&gt;Выполненные лабораторные работы по предмету &amp;ldquo;Операционные системы&amp;rdquo; (Просроченные)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>My exciting week 5</title>
-      <link>http://localhost:1313/post/post-9/</link>
+      <link>https://example.com/post/post-9/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-9/</guid>
+      <guid>https://example.com/post/post-9/</guid>
       <description>&lt;p&gt;Greetings! 👋&lt;/p&gt;
 
 
@@ -127,9 +127,9 @@
     
     <item>
       <title>Моя увлекательная неделя 4</title>
-      <link>http://localhost:1313/post/post-7/</link>
+      <link>https://example.com/post/post-7/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-7/</guid>
+      <guid>https://example.com/post/post-7/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -158,9 +158,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>http://localhost:1313/post/post-8/</link>
+      <link>https://example.com/post/post-8/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-8/</guid>
+      <guid>https://example.com/post/post-8/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -203,7 +203,7 @@
                /post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_9e573332440afa875caa6ef01974b3c8.webp 400w,
                /post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_8d2fdcac323ba7c5da9059555418d87d.webp 760w,
                /post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_9e573332440afa875caa6ef01974b3c8.webp&#34;
+               src=&#34;https://example.com/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_9e573332440afa875caa6ef01974b3c8.webp&#34;
                width=&#34;760&#34;
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -233,7 +233,7 @@
                /post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_ebe6caac0b401d8e0a5234f855bf142f.webp 400w,
                /post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_49c2054147177dc8df41216b90e8d4e5.webp 760w,
                /post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_ebe6caac0b401d8e0a5234f855bf142f.webp&#34;
+               src=&#34;https://example.com/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_ebe6caac0b401d8e0a5234f855bf142f.webp&#34;
                width=&#34;700&#34;
                height=&#34;319&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -263,7 +263,7 @@
                /post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_80f0229a60efedcef452ce4cce489145.webp 400w,
                /post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_14a65501bd93f522580624f68af7e8cc.webp 760w,
                /post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_80f0229a60efedcef452ce4cce489145.webp&#34;
+               src=&#34;https://example.com/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_80f0229a60efedcef452ce4cce489145.webp&#34;
                width=&#34;760&#34;
                height=&#34;443&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -293,7 +293,7 @@
                /post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_e548ded4b8cb31df5998eed69f035c93.webp 400w,
                /post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_a62e2f9e2d59dc9ef6c43549017c4c73.webp 760w,
                /post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_e548ded4b8cb31df5998eed69f035c93.webp&#34;
+               src=&#34;https://example.com/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_e548ded4b8cb31df5998eed69f035c93.webp&#34;
                width=&#34;760&#34;
                height=&#34;223&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -323,7 +323,7 @@
                /post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_f503e158eb576d4c98dd26c6f5ef9afa.webp 400w,
                /post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_9c466fe7ce8d32fc7b33c9298e3d3669.webp 760w,
                /post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_f503e158eb576d4c98dd26c6f5ef9afa.webp&#34;
+               src=&#34;https://example.com/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_f503e158eb576d4c98dd26c6f5ef9afa.webp&#34;
                width=&#34;760&#34;
                height=&#34;234&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -335,9 +335,9 @@
     
     <item>
       <title>Моя увлекательная неделя 3</title>
-      <link>http://localhost:1313/post/post-5/</link>
+      <link>https://example.com/post/post-5/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-5/</guid>
+      <guid>https://example.com/post/post-5/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -366,9 +366,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>http://localhost:1313/post/post-6/</link>
+      <link>https://example.com/post/post-6/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-6/</guid>
+      <guid>https://example.com/post/post-6/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -423,9 +423,9 @@
     
     <item>
       <title>Моя увлекательная неделя 2</title>
-      <link>http://localhost:1313/post/post-3/</link>
+      <link>https://example.com/post/post-3/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-3/</guid>
+      <guid>https://example.com/post/post-3/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -454,9 +454,9 @@
     
     <item>
       <title>Язык разметки LaTex</title>
-      <link>http://localhost:1313/post/post-4/</link>
+      <link>https://example.com/post/post-4/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-4/</guid>
+      <guid>https://example.com/post/post-4/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -515,7 +515,7 @@
                /post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_df1bd253949f738c8174890e97188c66.webp 400w,
                /post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_4a2ba666a810a56074e45aaea8524a02.webp 760w,
                /post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_df1bd253949f738c8174890e97188c66.webp&#34;
+               src=&#34;https://example.com/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_df1bd253949f738c8174890e97188c66.webp&#34;
                width=&#34;760&#34;
                height=&#34;459&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -545,7 +545,7 @@
                /post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_dfb45efb96257308848421b9417cca40.webp 400w,
                /post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_8b3d64de7fee6b835a14d4802c84958d.webp 760w,
                /post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_dfb45efb96257308848421b9417cca40.webp&#34;
+               src=&#34;https://example.com/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_dfb45efb96257308848421b9417cca40.webp&#34;
                width=&#34;760&#34;
                height=&#34;456&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -577,7 +577,7 @@
                /post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_05c5ef571fc591f29776b49fadcd670e.webp 400w,
                /post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_9efa992ed8abef0cd315475a2e5dcbe5.webp 760w,
                /post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_05c5ef571fc591f29776b49fadcd670e.webp&#34;
+               src=&#34;https://example.com/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_05c5ef571fc591f29776b49fadcd670e.webp&#34;
                width=&#34;760&#34;
                height=&#34;326&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -608,7 +608,7 @@
                /post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1cfba9f2189ebb620d0a61a8c2f642e3.webp 400w,
                /post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_27460a334cef7933220fe928b99edf12.webp 760w,
                /post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1cfba9f2189ebb620d0a61a8c2f642e3.webp&#34;
+               src=&#34;https://example.com/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1cfba9f2189ebb620d0a61a8c2f642e3.webp&#34;
                width=&#34;760&#34;
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -619,9 +619,9 @@
     
     <item>
       <title>Моя увлекательная неделя 1</title>
-      <link>http://localhost:1313/post/post-1/</link>
+      <link>https://example.com/post/post-1/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-1/</guid>
+      <guid>https://example.com/post/post-1/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -653,9 +653,9 @@
     
     <item>
       <title>Управление версиями Git</title>
-      <link>http://localhost:1313/post/post-2/</link>
+      <link>https://example.com/post/post-2/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-2/</guid>
+      <guid>https://example.com/post/post-2/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -701,7 +701,7 @@
                /post/post-2/p1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1fd5f9b35cb13605d2f5891b7393ce3d.webp 400w,
                /post/post-2/p1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_565979d16c126373123ffa6eed50c679.webp 760w,
                /post/post-2/p1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-2/p1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1fd5f9b35cb13605d2f5891b7393ce3d.webp&#34;
+               src=&#34;https://example.com/post/post-2/p1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1fd5f9b35cb13605d2f5891b7393ce3d.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -732,7 +732,7 @@
                /post/post-2/p2_hu74fb508a0af33a33fa0f541a94378552_22810_345f719aee00cf82cc772af6afec5229.webp 400w,
                /post/post-2/p2_hu74fb508a0af33a33fa0f541a94378552_22810_c90388a988c509e158b177d4ddbf8c2c.webp 760w,
                /post/post-2/p2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-2/p2_hu74fb508a0af33a33fa0f541a94378552_22810_345f719aee00cf82cc772af6afec5229.webp&#34;
+               src=&#34;https://example.com/post/post-2/p2_hu74fb508a0af33a33fa0f541a94378552_22810_345f719aee00cf82cc772af6afec5229.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -764,7 +764,7 @@
                /post/post-2/p3_hu7dff96406965f7bb87732a216019226c_26657_db5b1cae7f21639a99c4492509ec78b0.webp 400w,
                /post/post-2/p3_hu7dff96406965f7bb87732a216019226c_26657_86c52d89be15190a10d9f5c4a872bdd0.webp 760w,
                /post/post-2/p3_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post-2/p3_hu7dff96406965f7bb87732a216019226c_26657_db5b1cae7f21639a99c4492509ec78b0.webp&#34;
+               src=&#34;https://example.com/post/post-2/p3_hu7dff96406965f7bb87732a216019226c_26657_db5b1cae7f21639a99c4492509ec78b0.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -776,9 +776,9 @@
     
     <item>
       <title>Сайт на Github pages</title>
-      <link>http://localhost:1313/project/site_os/</link>
+      <link>https://example.com/project/site_os/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/site_os/</guid>
+      <guid>https://example.com/project/site_os/</guid>
       <description>&lt;p&gt;Индивидуальный проект по предмету операционные системы - сайт на Github pages.&lt;/p&gt;</description>
     </item>
     

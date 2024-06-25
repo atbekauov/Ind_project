@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LaTex | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/ru/tags/latex/</link>
-      <atom:link href="http://localhost:1313/ru/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/ru/tags/latex/</link>
+      <atom:link href="https://example.com/ru/tags/latex/index.xml" rel="self" type="application/rss+xml" />
     <description>LaTex</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>LaTex</title>
-      <link>http://localhost:1313/ru/tags/latex/</link>
+      <link>https://example.com/ru/tags/latex/</link>
     </image>
     
     <item>
       <title>Языки научного программирования</title>
-      <link>http://localhost:1313/ru/post/post-8/</link>
+      <link>https://example.com/ru/post/post-8/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-8/</guid>
+      <guid>https://example.com/ru/post/post-8/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -59,7 +59,7 @@
                /ru/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_9e573332440afa875caa6ef01974b3c8.webp 400w,
                /ru/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_8d2fdcac323ba7c5da9059555418d87d.webp 760w,
                /ru/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_9e573332440afa875caa6ef01974b3c8.webp&#34;
+               src=&#34;https://example.com/ru/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_9e573332440afa875caa6ef01974b3c8.webp&#34;
                width=&#34;760&#34;
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -89,7 +89,7 @@
                /ru/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_ebe6caac0b401d8e0a5234f855bf142f.webp 400w,
                /ru/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_49c2054147177dc8df41216b90e8d4e5.webp 760w,
                /ru/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_ebe6caac0b401d8e0a5234f855bf142f.webp&#34;
+               src=&#34;https://example.com/ru/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_ebe6caac0b401d8e0a5234f855bf142f.webp&#34;
                width=&#34;700&#34;
                height=&#34;319&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -119,7 +119,7 @@
                /ru/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_80f0229a60efedcef452ce4cce489145.webp 400w,
                /ru/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_14a65501bd93f522580624f68af7e8cc.webp 760w,
                /ru/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_80f0229a60efedcef452ce4cce489145.webp&#34;
+               src=&#34;https://example.com/ru/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_80f0229a60efedcef452ce4cce489145.webp&#34;
                width=&#34;760&#34;
                height=&#34;443&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -149,7 +149,7 @@
                /ru/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_e548ded4b8cb31df5998eed69f035c93.webp 400w,
                /ru/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_a62e2f9e2d59dc9ef6c43549017c4c73.webp 760w,
                /ru/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_e548ded4b8cb31df5998eed69f035c93.webp&#34;
+               src=&#34;https://example.com/ru/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_e548ded4b8cb31df5998eed69f035c93.webp&#34;
                width=&#34;760&#34;
                height=&#34;223&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -179,7 +179,7 @@
                /ru/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_f503e158eb576d4c98dd26c6f5ef9afa.webp 400w,
                /ru/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_9c466fe7ce8d32fc7b33c9298e3d3669.webp 760w,
                /ru/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_f503e158eb576d4c98dd26c6f5ef9afa.webp&#34;
+               src=&#34;https://example.com/ru/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_f503e158eb576d4c98dd26c6f5ef9afa.webp&#34;
                width=&#34;760&#34;
                height=&#34;234&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -191,9 +191,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>http://localhost:1313/ru/post/post-6/</link>
+      <link>https://example.com/ru/post/post-6/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-6/</guid>
+      <guid>https://example.com/ru/post/post-6/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -248,9 +248,9 @@
     
     <item>
       <title>Язык разметки LaTex</title>
-      <link>http://localhost:1313/ru/post/post-4/</link>
+      <link>https://example.com/ru/post/post-4/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-4/</guid>
+      <guid>https://example.com/ru/post/post-4/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -309,7 +309,7 @@
                /ru/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_df1bd253949f738c8174890e97188c66.webp 400w,
                /ru/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_4a2ba666a810a56074e45aaea8524a02.webp 760w,
                /ru/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_df1bd253949f738c8174890e97188c66.webp&#34;
+               src=&#34;https://example.com/ru/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_df1bd253949f738c8174890e97188c66.webp&#34;
                width=&#34;760&#34;
                height=&#34;459&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -339,7 +339,7 @@
                /ru/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_dfb45efb96257308848421b9417cca40.webp 400w,
                /ru/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_8b3d64de7fee6b835a14d4802c84958d.webp 760w,
                /ru/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_dfb45efb96257308848421b9417cca40.webp&#34;
+               src=&#34;https://example.com/ru/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_dfb45efb96257308848421b9417cca40.webp&#34;
                width=&#34;760&#34;
                height=&#34;456&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -371,7 +371,7 @@
                /ru/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_05c5ef571fc591f29776b49fadcd670e.webp 400w,
                /ru/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_9efa992ed8abef0cd315475a2e5dcbe5.webp 760w,
                /ru/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_05c5ef571fc591f29776b49fadcd670e.webp&#34;
+               src=&#34;https://example.com/ru/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_05c5ef571fc591f29776b49fadcd670e.webp&#34;
                width=&#34;760&#34;
                height=&#34;326&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -402,7 +402,7 @@
                /ru/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1cfba9f2189ebb620d0a61a8c2f642e3.webp 400w,
                /ru/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_27460a334cef7933220fe928b99edf12.webp 760w,
                /ru/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1cfba9f2189ebb620d0a61a8c2f642e3.webp&#34;
+               src=&#34;https://example.com/ru/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1cfba9f2189ebb620d0a61a8c2f642e3.webp&#34;
                width=&#34;760&#34;
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

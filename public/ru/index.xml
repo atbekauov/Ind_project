@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/ru/</link>
-      <atom:link href="http://localhost:1313/ru/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/ru/</link>
+      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Academic CV Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Hugo Academic CV Theme</title>
-      <link>http://localhost:1313/ru/</link>
+      <link>https://example.com/ru/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/ru/event/example/</link>
+      <link>https://example.com/ru/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/event/example/</guid>
+      <guid>https://example.com/ru/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,17 +35,17 @@
     
     <item>
       <title>Лабораторные работы по ОС</title>
-      <link>http://localhost:1313/ru/project/labs_os/</link>
+      <link>https://example.com/ru/project/labs_os/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/labs_os/</guid>
+      <guid>https://example.com/ru/project/labs_os/</guid>
       <description>&lt;p&gt;Выполненные лабораторные работы по предмету &amp;ldquo;Операционные системы&amp;rdquo; (Просроченные)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Моя увлекательная неделя 5</title>
-      <link>http://localhost:1313/ru/post/post-9/</link>
+      <link>https://example.com/ru/post/post-9/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-9/</guid>
+      <guid>https://example.com/ru/post/post-9/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -74,9 +74,9 @@
     
     <item>
       <title>ПОСТ МОЕЙ ЛЮБВИ К ЧЕРЕПАХАМ</title>
-      <link>http://localhost:1313/ru/post/post-10/</link>
+      <link>https://example.com/ru/post/post-10/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-10/</guid>
+      <guid>https://example.com/ru/post/post-10/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -136,7 +136,7 @@
                /ru/post/post-10/p2_hu3c8cbedcca57d7e157a858ed8b8c008d_293218_bb6180c9a98f672b597c9d24417776b9.webp 400w,
                /ru/post/post-10/p2_hu3c8cbedcca57d7e157a858ed8b8c008d_293218_5c7b4e4e995ef8b36eda63af8ca63552.webp 760w,
                /ru/post/post-10/p2_hu3c8cbedcca57d7e157a858ed8b8c008d_293218_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-10/p2_hu3c8cbedcca57d7e157a858ed8b8c008d_293218_bb6180c9a98f672b597c9d24417776b9.webp&#34;
+               src=&#34;https://example.com/ru/post/post-10/p2_hu3c8cbedcca57d7e157a858ed8b8c008d_293218_bb6180c9a98f672b597c9d24417776b9.webp&#34;
                width=&#34;740&#34;
                height=&#34;463&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -211,9 +211,9 @@
     
     <item>
       <title>Моя увлекательная неделя 4</title>
-      <link>http://localhost:1313/ru/post/post-7/</link>
+      <link>https://example.com/ru/post/post-7/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-7/</guid>
+      <guid>https://example.com/ru/post/post-7/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -242,9 +242,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>http://localhost:1313/ru/post/post-8/</link>
+      <link>https://example.com/ru/post/post-8/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-8/</guid>
+      <guid>https://example.com/ru/post/post-8/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -287,7 +287,7 @@
                /ru/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_9e573332440afa875caa6ef01974b3c8.webp 400w,
                /ru/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_8d2fdcac323ba7c5da9059555418d87d.webp 760w,
                /ru/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_9e573332440afa875caa6ef01974b3c8.webp&#34;
+               src=&#34;https://example.com/ru/post/post-8/p1_hu49c2b606cd182cc078304b30f4dca414_505783_9e573332440afa875caa6ef01974b3c8.webp&#34;
                width=&#34;760&#34;
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -317,7 +317,7 @@
                /ru/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_ebe6caac0b401d8e0a5234f855bf142f.webp 400w,
                /ru/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_49c2054147177dc8df41216b90e8d4e5.webp 760w,
                /ru/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_ebe6caac0b401d8e0a5234f855bf142f.webp&#34;
+               src=&#34;https://example.com/ru/post/post-8/p2_hu95054e383b84e681e7250da1c121e0aa_26693_ebe6caac0b401d8e0a5234f855bf142f.webp&#34;
                width=&#34;700&#34;
                height=&#34;319&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -347,7 +347,7 @@
                /ru/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_80f0229a60efedcef452ce4cce489145.webp 400w,
                /ru/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_14a65501bd93f522580624f68af7e8cc.webp 760w,
                /ru/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_80f0229a60efedcef452ce4cce489145.webp&#34;
+               src=&#34;https://example.com/ru/post/post-8/p3_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_80f0229a60efedcef452ce4cce489145.webp&#34;
                width=&#34;760&#34;
                height=&#34;443&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -377,7 +377,7 @@
                /ru/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_e548ded4b8cb31df5998eed69f035c93.webp 400w,
                /ru/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_a62e2f9e2d59dc9ef6c43549017c4c73.webp 760w,
                /ru/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_e548ded4b8cb31df5998eed69f035c93.webp&#34;
+               src=&#34;https://example.com/ru/post/post-8/p4_hu4013986cd5e85be37ba0788b41f2f2b8_10456_e548ded4b8cb31df5998eed69f035c93.webp&#34;
                width=&#34;760&#34;
                height=&#34;223&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -407,7 +407,7 @@
                /ru/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_f503e158eb576d4c98dd26c6f5ef9afa.webp 400w,
                /ru/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_9c466fe7ce8d32fc7b33c9298e3d3669.webp 760w,
                /ru/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_f503e158eb576d4c98dd26c6f5ef9afa.webp&#34;
+               src=&#34;https://example.com/ru/post/post-8/p5_hu666da3284bba9119c2a9584dd35fcfdc_14590_f503e158eb576d4c98dd26c6f5ef9afa.webp&#34;
                width=&#34;760&#34;
                height=&#34;234&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -419,9 +419,9 @@
     
     <item>
       <title>Моя увлекательная неделя 3</title>
-      <link>http://localhost:1313/ru/post/post-5/</link>
+      <link>https://example.com/ru/post/post-5/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-5/</guid>
+      <guid>https://example.com/ru/post/post-5/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -450,9 +450,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>http://localhost:1313/ru/post/post-6/</link>
+      <link>https://example.com/ru/post/post-6/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-6/</guid>
+      <guid>https://example.com/ru/post/post-6/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -507,9 +507,9 @@
     
     <item>
       <title>Моя увлекательная неделя 2</title>
-      <link>http://localhost:1313/ru/post/post-3/</link>
+      <link>https://example.com/ru/post/post-3/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-3/</guid>
+      <guid>https://example.com/ru/post/post-3/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -538,9 +538,9 @@
     
     <item>
       <title>Язык разметки LaTex</title>
-      <link>http://localhost:1313/ru/post/post-4/</link>
+      <link>https://example.com/ru/post/post-4/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-4/</guid>
+      <guid>https://example.com/ru/post/post-4/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -599,7 +599,7 @@
                /ru/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_df1bd253949f738c8174890e97188c66.webp 400w,
                /ru/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_4a2ba666a810a56074e45aaea8524a02.webp 760w,
                /ru/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_df1bd253949f738c8174890e97188c66.webp&#34;
+               src=&#34;https://example.com/ru/post/post-4/p1_hu59c8bb8e0e335f599d76c86f187cf1a2_41233_df1bd253949f738c8174890e97188c66.webp&#34;
                width=&#34;760&#34;
                height=&#34;459&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -629,7 +629,7 @@
                /ru/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_dfb45efb96257308848421b9417cca40.webp 400w,
                /ru/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_8b3d64de7fee6b835a14d4802c84958d.webp 760w,
                /ru/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_dfb45efb96257308848421b9417cca40.webp&#34;
+               src=&#34;https://example.com/ru/post/post-4/p2_hu5c5c5f187d3f5ddceb1ae68cc79b579a_65507_dfb45efb96257308848421b9417cca40.webp&#34;
                width=&#34;760&#34;
                height=&#34;456&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -661,7 +661,7 @@
                /ru/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_05c5ef571fc591f29776b49fadcd670e.webp 400w,
                /ru/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_9efa992ed8abef0cd315475a2e5dcbe5.webp 760w,
                /ru/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_05c5ef571fc591f29776b49fadcd670e.webp&#34;
+               src=&#34;https://example.com/ru/post/post-4/p3_hu0d91c8c733575ed47f6f3150a0ebcfe1_17539_05c5ef571fc591f29776b49fadcd670e.webp&#34;
                width=&#34;760&#34;
                height=&#34;326&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -692,7 +692,7 @@
                /ru/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1cfba9f2189ebb620d0a61a8c2f642e3.webp 400w,
                /ru/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_27460a334cef7933220fe928b99edf12.webp 760w,
                /ru/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1cfba9f2189ebb620d0a61a8c2f642e3.webp&#34;
+               src=&#34;https://example.com/ru/post/post-4/p4_hu6eb4509b23253355ccd0865aaf359cf7_17093_1cfba9f2189ebb620d0a61a8c2f642e3.webp&#34;
                width=&#34;760&#34;
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -703,9 +703,9 @@
     
     <item>
       <title>Моя увлекательная неделя 1</title>
-      <link>http://localhost:1313/ru/post/post-1/</link>
+      <link>https://example.com/ru/post/post-1/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-1/</guid>
+      <guid>https://example.com/ru/post/post-1/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -737,9 +737,9 @@
     
     <item>
       <title>Управление версиями Git</title>
-      <link>http://localhost:1313/ru/post/post-2/</link>
+      <link>https://example.com/ru/post/post-2/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/post-2/</guid>
+      <guid>https://example.com/ru/post/post-2/</guid>
       <description>&lt;p&gt;Здравствуйте, уважаемые читатели! 👋&lt;/p&gt;
 
 
@@ -785,7 +785,7 @@
                /ru/post/post-2/p1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1fd5f9b35cb13605d2f5891b7393ce3d.webp 400w,
                /ru/post/post-2/p1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_565979d16c126373123ffa6eed50c679.webp 760w,
                /ru/post/post-2/p1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-2/p1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1fd5f9b35cb13605d2f5891b7393ce3d.webp&#34;
+               src=&#34;https://example.com/ru/post/post-2/p1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1fd5f9b35cb13605d2f5891b7393ce3d.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -816,7 +816,7 @@
                /ru/post/post-2/p2_hu74fb508a0af33a33fa0f541a94378552_22810_345f719aee00cf82cc772af6afec5229.webp 400w,
                /ru/post/post-2/p2_hu74fb508a0af33a33fa0f541a94378552_22810_c90388a988c509e158b177d4ddbf8c2c.webp 760w,
                /ru/post/post-2/p2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-2/p2_hu74fb508a0af33a33fa0f541a94378552_22810_345f719aee00cf82cc772af6afec5229.webp&#34;
+               src=&#34;https://example.com/ru/post/post-2/p2_hu74fb508a0af33a33fa0f541a94378552_22810_345f719aee00cf82cc772af6afec5229.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -848,7 +848,7 @@
                /ru/post/post-2/p3_hu7dff96406965f7bb87732a216019226c_26657_db5b1cae7f21639a99c4492509ec78b0.webp 400w,
                /ru/post/post-2/p3_hu7dff96406965f7bb87732a216019226c_26657_86c52d89be15190a10d9f5c4a872bdd0.webp 760w,
                /ru/post/post-2/p3_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/post-2/p3_hu7dff96406965f7bb87732a216019226c_26657_db5b1cae7f21639a99c4492509ec78b0.webp&#34;
+               src=&#34;https://example.com/ru/post/post-2/p3_hu7dff96406965f7bb87732a216019226c_26657_db5b1cae7f21639a99c4492509ec78b0.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -860,17 +860,17 @@
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/ru/projects/</link>
+      <link>https://example.com/ru/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/projects/</guid>
+      <guid>https://example.com/ru/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/ru/post/get-started/</link>
+      <link>https://example.com/ru/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/get-started/</guid>
+      <guid>https://example.com/ru/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -954,17 +954,17 @@
     
     <item>
       <title>Сайт на Github pages</title>
-      <link>http://localhost:1313/ru/project/site_os/</link>
+      <link>https://example.com/ru/project/site_os/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/site_os/</guid>
+      <guid>https://example.com/ru/project/site_os/</guid>
       <description>&lt;p&gt;Индивидуальный проект по предмету операционные системы - сайт на Github pages.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/ru/post/data-visualization/</link>
+      <link>https://example.com/ru/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/data-visualization/</guid>
+      <guid>https://example.com/ru/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -975,7 +975,7 @@
 
 
 
-&lt;div id=&#34;chart-315267894&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-386524791&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -993,7 +993,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-315267894&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-386524791&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1168,17 +1168,17 @@ Crash --&amp;gt; [*]
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/ru/experience/</link>
+      <link>https://example.com/ru/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/experience/</guid>
+      <guid>https://example.com/ru/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/ru/teaching/js/</link>
+      <link>https://example.com/ru/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/teaching/js/</guid>
+      <guid>https://example.com/ru/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1225,7 +1225,7 @@ Crash --&amp;gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/ru/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.com/ru/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1302,9 +1302,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/ru/teaching/python/</link>
+      <link>https://example.com/ru/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/teaching/python/</guid>
+      <guid>https://example.com/ru/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1351,7 +1351,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/ru/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.com/ru/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1428,9 +1428,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/ru/post/project-management/</link>
+      <link>https://example.com/ru/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/project-management/</guid>
+      <guid>https://example.com/ru/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -1503,10 +1503,10 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/ru/publication/preprint/</link>
+      <link>https://example.com/ru/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>https://example.com/ru/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1519,9 +1519,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:1313/ru/publication/journal-article/</link>
+      <link>https://example.com/ru/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/publication/journal-article/</guid>
+      <guid>https://example.com/ru/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1540,9 +1540,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/ru/publication/conference-paper/</link>
+      <link>https://example.com/ru/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/publication/conference-paper/</guid>
+      <guid>https://example.com/ru/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
