@@ -1,7 +1,7 @@
 ---
 title: Моя увлекательная неделя
 summary: Это третий пост увлекательной (НЕ ОЧЕНЬ!) коллекции рассказов о моей повседневной жизни!
-date: 2024-06-4
+date: 2024-06-04
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
