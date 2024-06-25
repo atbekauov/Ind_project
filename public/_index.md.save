@@ -30,6 +30,31 @@ sections:
           size: cover
           position: center
           parallax: false
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title:
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    id: talks
+    content:
+      title: 
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     id: news
     content:

@@ -406,76 +406,6 @@
                 href="https://example.com/experience/"
                 />
   </url><url>
-    <loc>https://example.com/tags/javascript/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/tags/javascript/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tags/javascript/"
-                />
-  </url><url>
-    <loc>https://example.com/teaching/js/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/teaching/js/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/teaching/js/"
-                />
-  </url><url>
-    <loc>https://example.com/teaching/python/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/teaching/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/teaching/python/"
-                />
-  </url><url>
-    <loc>https://example.com/tags/python/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/tags/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tags/python/"
-                />
-  </url><url>
-    <loc>https://example.com/teaching/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/teaching/"
-                />
-  </url><url>
     <loc>https://example.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -488,19 +418,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://example.com/"
-                />
-  </url><url>
-    <loc>https://example.com/event/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/event/"
                 />
   </url><url>
     <loc>https://example.com/publication_types/</loc>
