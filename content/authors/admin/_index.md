@@ -26,7 +26,7 @@ organizations:
 profiles:
   - icon: etsy
     link: https://elibrary.ru/defaultx.asp
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: gs
     link: https://scholar.google.com/
   - icon: github
     link: https://github.com/atbekauov
@@ -34,11 +34,11 @@ profiles:
     link:  https://www.mendeley.com/
   - icon: orcid
     link:  https://support.orcid.org/hc/en-us
-  - icon: linkedin
+  - icon: rg
     link:  https://www.researchgate.net/profile/
   - icon: autoprefixer
     link:  https://independent.academia.edu/
-  - icon: archive
+  - icon: arxiv
     link:  https://arxiv.org/user/
 
 interests:
