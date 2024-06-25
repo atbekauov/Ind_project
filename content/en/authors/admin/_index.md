@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Бекауов Артур Тимурович
+title: Bekauov Artur Timurovich
 
 # Full name (for SEO)
-first_name: Артур
-last_name: Бекауов
+first_name: Artur
+last_name: Bekauov
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Студент РУДН
+role: RUDN Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: РУДН
+  - name: RUDN
     url: https://www.rudn.ru/
 
 # Social network links
@@ -36,19 +36,19 @@ profiles:
     link:  https://arxiv.org/user/
 
 interests:
-  - Программирование на C++
-  - Просмотр кино
-  - Изучение языков 
+  - C++ programming
+  - Whatching movies
+  - Studing languages 
 
 education:
-  - area: Строительство - бак.
-    institution: МГСУ - ИСА
+  - area: Civil Engeneering
+    institution: MSUCE - IEA
     
-  - area: Комп. и инф. науки - бак
-    institution: РУДН - ФФМиЕН
+  - area: Computer scince
+    institution: RUDN
     
 work:
-  - position: Водитель грузового автомобиля
+  - position: TRUCK Driver
     company_name: X5 group
     company_url: ''
     company_logo: ''
@@ -59,8 +59,8 @@ work:
       - Водит грузовой автомобиль
       - Отчитываться по накладным
       - Иногда разгружать товар
-  - position: Официант
-    company_name: Кафешка
+  - position: Waiter
+    company_name: cafe
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
