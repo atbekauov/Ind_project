@@ -30,12 +30,8 @@ profiles:
     link: https://scholar.google.com/
   - icon: brands/github
     link: https://github.com/atbekauov
-  - icon: mendeley
-    link:  https://www.mendeley.com/
   - icon: academicons/orcid
     link:  https://support.orcid.org/hc/en-us
-  - icon: rg
-    link:  https://www.researchgate.net/profile/
   - icon: arxiv
     link:  https://arxiv.org/user/
 
