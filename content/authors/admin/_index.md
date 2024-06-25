@@ -26,18 +26,16 @@ organizations:
 profiles:
   - icon: etsy
     link: https://elibrary.ru/defaultx.asp
-  - icon: gs
+  - icon: academicons/google-scholar
     link: https://scholar.google.com/
-  - icon: github
+  - icon: brands/github
     link: https://github.com/atbekauov
   - icon: mendeley
     link:  https://www.mendeley.com/
-  - icon: orcid
+  - icon: academicons/orcid
     link:  https://support.orcid.org/hc/en-us
   - icon: rg
     link:  https://www.researchgate.net/profile/
-  - icon: autoprefixer
-    link:  https://independent.academia.edu/
   - icon: arxiv
     link:  https://arxiv.org/user/
 
