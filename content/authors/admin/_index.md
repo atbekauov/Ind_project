@@ -25,28 +25,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: etsy
-    icon_pack: fab
     link: https://elibrary.ru/defaultx.asp
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
     link: https://scholar.google.com/
   - icon: github
-    icon_pack: fab
     link: https://github.com/atbekauov
   - icon: mendeley
-    icon_pack: fab
     link:  https://www.mendeley.com/
   - icon: orcid
-    icon_pack: fab
     link:  https://support.orcid.org/hc/en-us
   - icon: linkedin
-    icon_pack: fab
     link:  https://www.researchgate.net/profile/
   - icon: autoprefixer
-    icon_pack: fab
     link:  https://independent.academia.edu/
   - icon: archive
-    icon_pack: fas
     link:  https://arxiv.org/user/
 
 interests:
